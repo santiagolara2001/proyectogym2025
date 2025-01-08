@@ -4,6 +4,6 @@ import streamlit as st
 st.title("Hello, Streamlit!")
 
 # Simple message
-st.write("This is a simple Streamlit app to test the commit.")
+st.write("This is a simple Streamlit app to test the commit. After the requirements file.")
 
 # Run the app with `streamlit run app.py` if you save this as `app.py`
